@@ -35,3 +35,7 @@ button a{
     color:rgb(133, 190, 0);
     text-decoration: underline;
 }
+.txt_style{
+    font-style: italic;
+    font-weight: bold;
+}
